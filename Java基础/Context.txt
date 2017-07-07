@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Html.html</title>
+	
+    <meta name="keywords" content="keyword1,keyword2,keyword3">
+    <meta name="description" content="this is my page">
+    <meta name="content-type" content="text/html; charset=GBK">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+
+  </head>
+  
+  <body>
+  
+<a href="https://github.com/qzyw525942/MyRepository/commit/afde9595f3881bcf37a853f8335028f1fc146a67">day01</a>
+<p>
+第一集：计算机基础和常用DOS命令.<br>
+第二集  java概述和开发环境配置.<br>
+</p>    
+&nbsp;<br>
+
+<a href="https://github.com/qzyw525942/MyRepository/commit/afde9595f3881bcf37a853f8335028f1fc146a67">day02</a>
+<p>
+关键字.<br>
+标识符.<br>
+注释.<br>
+常量.<br>
+进制.<br>
+其他进制到十进制的转化：<br>
+十进制到其他进制的转化：<br>
+快速转换.<br>
+原码，反码和补码.<br>
+变量.<br>
+数据类型.<br>
+数据类型补充：<br>
+</p>    
+&nbsp;<br>
+
+
+  </body>
+</html>
